@@ -18,3 +18,11 @@ img {
     max-width: 100%;
     display: block;
 }
+
+.subtitulo {
+    max-width: 4ch;
+    font-size: 8rem;
+    word-break: 1;
+    text-transform: uppercase;
+    word-break: break-all;
+}
