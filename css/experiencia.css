@@ -1,6 +1,9 @@
 .experiencia .subtitulo {
     color: #e0e0e0;
 }
+.experiencia {
+    align-items: center;
+}
 
 .experiencia-texto {
     font-size: 1.5rem;

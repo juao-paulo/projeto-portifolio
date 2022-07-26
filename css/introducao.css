@@ -35,6 +35,10 @@
 
 @media (max-width: 800px) {
 
+    .introducao img {
+        margin: auto;
+    }
+
     .introducao h1 {
         grid-template-columns: 1fr 1fr;
         gap: 40px;
@@ -50,16 +54,9 @@
         left: 0px;
     }
 
-    .introducao-texto {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
-
 }
 
-@media (max-width: 400px) {
+@media (max-width: 475px) {
     .introducao img {
         display: none;
     }
